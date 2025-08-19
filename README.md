@@ -25,7 +25,7 @@
 -   🩷 **Learning:** GitHub, Web Dev, and how to be the cutest coder! ✨
 -   🐰 **Fun Fact:** I love Momos! 🎀
 -   🍓 **Current Goal:** Make my first project & learn more every day! 💻🌷
--   💌 **How to reach me:** mlohani127@gmail.com
+-   💌 **How to reach me:** muskanlohani7@gmail.com
 
 ---
 
