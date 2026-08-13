@@ -14,7 +14,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:E36BAE,100:0D1117&height=3" width="100%" alt="" />
 
 ## 🌸 &nbsp;About Me
 
@@ -37,6 +37,7 @@
 </table>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:E36BAE,100:0D1117&height=3" width="100%" alt="" />
 
 ## ✨ &nbsp;Tech Stack
 
@@ -61,32 +62,28 @@
 </div>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:E36BAE,100:0D1117&height=3" width="100%" alt="" />
 
 ## 🎀 &nbsp;GitHub Analytics
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muskanlohani&layout=compact&langs_count=8&theme=radical"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanlohani&theme=radical"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muskanlohani&theme=tradical&hide_border=true&bg_color=0D1117&area=true"/>
-
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muskanlohani&layout=compact&langs_count=8&theme=radical" alt="Top languages" />
 </div>
 
-<br/>
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanlohani&theme=radical" alt="Top languages" />
+</div>
 
 <div align="center">
-
-### 🐰 &nbsp;Contribution Snake
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=muskanlohani&theme=tradical&hide_border=true&bg_color=0D1117&color=E36BAE&line=E36BAE&point=FFFFFF&area=true" alt="Top languages" />
+</div>
 
 <div align="center">
   <img width="98%" src="https://raw.githubusercontent.com/muskanlohani/muskanlohani/output/snake.svg" alt="Contribution snake" />
 </div>
 
-</div>
-
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:E36BAE,100:0D1117&height=3" width="100%" alt="" />
 
 <div align="center">
 
