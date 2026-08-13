@@ -2,29 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:FF69B4&height=200&section=header&text=Hi,%20I'm%20Muskan!%20💖&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Learning%20to%20code,%20one%20sparkle%20at%20a%20time%20✨&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://linkedin.com/in/muskan-lohani-2a614a328/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/muskanlohani2024">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:muskanlohani7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&pause=1000&color=E36BAE&center=true&vCenter=true&width=560&lines=Turning+cups+of+chai+into+code+%E2%98%95;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Python;Currently+leveling+up+my+GitHub+workflow+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Frontend+Dev+in+the+making+%F0%9F%8C%B7;HTML+%2B+CSS+%2B+JS+%2B+Python;Building+cute+little+projects+%F0%9F%90%B0;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+<a href="https://linkedin.com/in/muskan-lohani-2a614a328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/muskanlohani2024"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:muskanlohani7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=muskanlohani&label=Profile%20Views&color=e36bae&style=flat" />
 
 </div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=muskanlohani&label=Profile%20Views&color=ff69b4&style=flat" />
+## 🌸 &nbsp;About Me
 
-## 🌸 About Me
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
+<table>
+<tr>
+<td width="65%" valign="top">
 
 - 🎯 **Focus:** Currently learning **Web Development** and sharpening my GitHub workflow
 - 🌱 **Growing in:** HTML, CSS, JavaScript & the basics of Python
@@ -33,11 +29,16 @@
 - 🎀 **Fun fact:** Momos are basically my love language 🥟
 - 💌 **Reach me at:** muskanlohani7@gmail.com
 
-<br clear="right"/>
+</td>
+<td width="35%">
+<img width="100%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## ✨ Tech Stack
+## ✨ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -59,30 +60,33 @@
 
 </div>
 
----
+<br/>
 
-## 🎀 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muskanlohani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muskanlohani&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muskanlohani&theme=radical"/>
-</p>
-
----
+## 🎀 &nbsp;GitHub Analytics
 
 <div align="center">
 
-### 🐰 Contribution Snake
+<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muskanlohani&layout=compact&langs_count=8&theme=radical"/>
 
-![snake gif](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanlohani&theme=radical"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muskanlohani&theme=tradical&hide_border=true&bg_color=0D1117&area=true"/>
 
 </div>
 
----
+<br/>
+
+<div align="center">
+
+### 🐰 &nbsp;Contribution Snake
+
+<div align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/muskanlohani/muskanlohani/output/snake.svg" alt="Contribution snake" />
+</div>
+
+</div>
+
+<br/>
 
 <div align="center">
 
